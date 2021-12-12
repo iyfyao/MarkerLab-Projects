@@ -22,5 +22,10 @@ PRODUCT
 
 ![61b4ce227572b8b1bb751e35](https://user-images.githubusercontent.com/90681327/145722231-77433d30-2434-47d1-abad-126beeda9f60.PNG)
 
-MOVE OVER 1 M
+MOVE OVER 1M
 https://user-images.githubusercontent.com/90681327/145722323-c380b4e3-2112-4b43-84f2-c03f980f45ea.mp4
+
+MOVE OVER 1M AND SQUARE TURN
+
+
+https://user-images.githubusercontent.com/90681327/145722363-7dd59b43-ef42-4c63-b52c-a75a151db4dc.mp4

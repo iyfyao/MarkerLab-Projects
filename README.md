@@ -10,3 +10,5 @@ Also its important to know that the motors were going in opposite direction. By 
 IDE and features : Arduino IDE, Arduino Board, Power supply, 2 servo motors, C++
 
 Our robot moves forward over 1 meter then make a square turn.
+
+![Robot Draft Tinkercad](https://user-images.githubusercontent.com/90681327/145722127-2c9cb010-067e-45e7-86a7-fa11806fc002.png)
